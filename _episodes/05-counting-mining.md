@@ -737,6 +737,8 @@ We will now use a loop to automate the counting of certain words within a docume
 
 Go to <http://www.gutenberg.org/cache/epub/514/pg514.txt> and save the file to your Desktop. Note, you may receive a welcome prompt from Project Gutenberg. If you do, acknowledge it, and then save the plain text UTF-8 file for _Little Women_.
 
+If you are based in Germany you may be blocked for downloading this file (a Court in Germany ordered that access to certain items in the Project Gutenberg collection are blocked from Germany). You thus may need to use a technology which hides your IP address (e.g. VPN, Thor browser). 
+
 We will now rename the file.
 
 ~~~
